@@ -1,1 +1,1 @@
-# SENTIMENT-ANALYSIS-ON-YOUTUBE-VIDEOS-FOR-KIDS
+Sentiment analysis on YouTube videos for kids is a process of using natural language processing techniques to analyze the emotions, opinions, and attitudes expressed in comments and other text-based content associated with YouTube videos targeting children. This analysis can help to understand the overall sentiment of the audience towards the videos and identify areas for improvement in content and marketing strategy.
